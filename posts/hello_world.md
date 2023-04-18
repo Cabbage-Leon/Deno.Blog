@@ -1,7 +1,6 @@
 ---
-title: 第一篇博客
-publish_date: 2022-11-20
-tags: ['hello-world']
+title: Hello world!
+publish_date: 2023-04-18
 ---
 
-这是我的第一篇博客！这里是博客内容
+This is my first blog post!
